@@ -1,2 +1,3 @@
 # hello-world
-Notes will be here
+
+This is repository for simple code snippets
